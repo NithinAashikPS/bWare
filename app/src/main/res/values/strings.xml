@@ -1,6 +1,6 @@
 <resources>
   <string name="app_name">bWare</string>
-  <string name="access_token">sk.eyJ1IjoiYWFzaGlrMDgwOCIsImEiOiJja2QwZXVkbDAwdDF0MnpuNzBxazlwOG1wIn0.kZFDvrNVAhIY4MMvuyjC5A</string>
+  <string name="access_token">___MapBox Access Token Here___</string>
   <string name="google_map_access_token">___Google Map Access Token Here___</string>
 
   <string name="app_permission">App Permission</string>
